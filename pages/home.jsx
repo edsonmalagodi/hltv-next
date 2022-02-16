@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
+import estilos from '../pages/Styles.module.css'
 
 export default function Home() {
   return (
@@ -12,8 +13,12 @@ export default function Home() {
       </Head>
       
         <h1 className={styles.title}>
-          HOME <a href="https://nextjs.org">Next.js!</a>
+          CHARLES TOTOSO <a href="https://nextjs.org">Next.js!</a>
         </h1>
+
+        <div className={estilos.profile}>
+          
+        </div>
 
         
 
