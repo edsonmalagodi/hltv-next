@@ -1,0 +1,45 @@
+
+{
+  "teams": [
+	{
+		"name" : "imperial",
+				"ranking" : 2,
+				"teamlogo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.cdnlive.com.br%2Fuploads%2F602%2Fcategoria%2F16452108106441.jpeg&imgrefurl=https%3A%2F%2Fwww.fallenstore.com.br%2Fproduto%2F812-uniforme-imperial-oficial-2022&tbnid=EdlKfSycJzZRDM&vet=12ahUKEwjDq4Px1J32AhVcqJUCHWOuDj4QMygEegQIARBe..i&docid=BGwXM_hmZCWOHM&w=275&h=275&q=imperial%20cs%20go%20icon&ved=2ahUKEwjDq4Px1J32AhVcqJUCHWOuDj4QMygEegQIARBe",
+				"players": [
+					{
+						"name": "fallen",
+						"img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.heavybullets.com%2Fwp-content%2Fuploads%2F2020%2F01%2FFalleN-CS-GO.jpeg&imgrefurl=https%3A%2F%2Fwww.heavybullets.com%2Fcs-go%2Ffallen-settings-crosshair-config%2F&tbnid=vHacSsXjMmjWtM&vet=12ahUKEwjKmaeu1Z32AhXFQ7gEHS_3DYcQMygKegUIARDQAQ..i&docid=qRff07BpE5LUPM&w=400&h=400&q=fallen%20csgo&ved=2ahUKEwjKmaeu1Z32AhXFQ7gEHS_3DYcQMygKegUIARDQAQ",
+						"function": "igl",
+						"wpn": "awp" 
+					},
+					{
+						"name": "fnx",
+						"img": "url",
+						"function": "cluthzero",
+						"wpn": "rifle" 
+					}
+				]  
+			},
+
+			{
+				"name": "navi",
+				"ranking": "1",
+				"teamlogo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fpreview.redd.it%2Fx1rqiumwlad41.png%3Fauto%3Dwebp%26s%3D1e675061fefda864ed72a536ac870c8ed366d65f&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2FGlobalOffensive%2Fcomments%2Feulti8%2Fnatus_vinceres_new_2020_logo%2F&tbnid=Cs_c2_L1PwAa4M&vet=12ahUKEwibyYDuzp32AhVhMLkGHa4MAtIQMygCegUIARC-AQ..i&docid=jlhgvlbFOguDKM&w=600&h=477&q=navi%20cs%20go%20icon&ved=2ahUKEwibyYDuzp32AhVhMLkGHa4MAtIQMygCegUIARC-AQ",
+				"players": [
+					{
+						"name": "simple",
+						"img": "url",
+						"function": "igl",
+						"wpn": "awp" 
+					},
+					{
+						"name": "bit",
+						"img": "url",
+						"function": "igl",
+						"wpn": "rifler" 
+					}
+				]							
+			}
+	]    
+}
+		

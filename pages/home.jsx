@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
       
         <h1 className={styles.title}>
-          CHARLES TOTOSO <a href="https://nextjs.org">Next.js!</a>
+          <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <div className={estilos.profile}>
